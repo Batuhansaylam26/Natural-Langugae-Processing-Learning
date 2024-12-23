@@ -1,0 +1,1 @@
+The jupyter notebooks in this repo are my personal study notes from the book "Natural Language Processing with Python" by Steven Bird, Ewan Klein, and Edward Loper, published by O'REILLY publishing house. 
